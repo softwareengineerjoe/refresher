@@ -13,13 +13,23 @@ h1 {
     color: #3747b3;
 }
 
-div {
-    background: pink;
-    width: 500px;
+#top-section {
+    font-size: 40px;
+    background: pink
 }
 
-span {
-    color: yellow;
-    fonr-size: 40px;
-    font: weight-bold;
+#bottom-section {
+    background: green;
+}
+
+.intro {
+    font-size: 30px;
+}
+
+.highlight {
+    background: yellow;
+}
+
+.accent-color {
+   color : red;  
 }
