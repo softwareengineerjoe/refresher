@@ -1,0 +1,25 @@
+body {
+    background-color: #a7dbe3;
+    color: white;
+    font-size: 21px;
+}
+
+p {
+    color: #2f4c5c;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+}
+
+div {
+    background: pink;
+    width: 500px;
+}
+
+span {
+    color: yellow;
+    fonr-size: 40px;
+    font: weight-bold;
+}
