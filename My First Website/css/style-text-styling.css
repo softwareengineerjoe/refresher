@@ -3,12 +3,10 @@ body{
     color: #2f4c5c;
     font-size: 21px;
     font-family: 'Rowdies', cursive;  
-    color: green;  
 }
 
 h1 {
     font-size: 70px;
-    color: #3747b3;
 
     
 }
@@ -48,3 +46,30 @@ a:active {
     color: blue;
 } */
 
+p, h1 {
+    color: green;
+}
+
+.body-text {
+    background-color: #76b5c5;
+    padding: 50px;
+}
+
+.body-text p {
+    color: white;
+}
+
+.body-text a {
+    color: #e28743;
+}
+
+.body-text a:hover {
+    color: #ddd;
+}
+
+.important-link
+{
+    color:yellow !important;
+}
+
+/* Always remember that !important is the last resolution */
