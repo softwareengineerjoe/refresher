@@ -1,0 +1,35 @@
+body{
+    background-color: #a7dbe3;
+    color: #2f4c5c;
+    font-size: 21px;
+    font-family: 'Rowdies', cursive;    
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+    
+}
+
+h2 {
+    margin-top: 0px;
+    font-weight: bold;
+    text-decoration: line-through;
+
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom:20px;
+
+    line-height: 1.4;
+
+    font-size: 30px;
+    font-style: italic;
+    font-weight: light;
+    text-align: left;
+}
+
