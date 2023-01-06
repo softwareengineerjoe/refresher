@@ -1,5 +1,9 @@
 body{
-    background-color: #a7dbe3;
+    /* background-color: #a7dbe3; */
+    background-image: url(../img/elephant.jpg);
+    background-size: contain;
+    bacground-repeat: no-repeat;
+    bacground-position: center;
     color: #2f4c5c;
     font-size: 21px;
 }
@@ -28,12 +32,12 @@ p {
 }
 
 .box1 {
-    background: pink;
+    background: #8fdb83;
 }
 
 .box2 {
-    background: red;
-
+    background: #rgba(255, 0, 0, .5); 
+    /* #RRGGBB 0 -> F */
 }
 
 .box3 {
@@ -55,13 +59,20 @@ p {
 }
 
 .box7 {
-    background: lightgreen;
+    background: rgba(255,255,0,.75);
+    
 }
 
 .box8 {
-    background: green;
+    width: 150px;
+    height: 150px;
+    background: hsla(150, 100%, 50%, .5);
 }
 
 .box9 {
-    background: blue;
+    width: 150px;
+    height: 150px;
+    background: rgba(0,150,255,.2);
+    font-size: 24px;
+    font-weight: bold;
 }
