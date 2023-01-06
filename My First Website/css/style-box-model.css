@@ -1,5 +1,6 @@
 body{
     background-color: #a7dbe3;
+    background-image: url(../img/denim.jpg);
     color: white;
     font-size: 21px;
 }
@@ -24,7 +25,6 @@ p {
 */
 
 .box {
-    background: pink;
     width: 300px;
 
     margin: 100px;
@@ -33,13 +33,21 @@ p {
     /* border-left-color: red; */
     /* border-left-style: solid; */
 
-    border: 5px solid red;
+    /* border: 5px solid red;
     border-right-width: 5px;
     border-left-color: green;
     border-right-style: solid;
-    border-style: double;
+    border-style: double; */
 
     /* padding: 50px 100px 300px 25px; */
             /* top right bottom left */
-    padding: 100px;
+    padding:800px 100px;
+    background-image: url(../img/elephant.jpg);
+    background-repeat: no-repeat;
+
+    background-size: contain;
+    background-position: center
 }
+
+/* more padding = more background */
+/* text on top of an image it has to be a backkground image */
