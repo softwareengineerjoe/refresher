@@ -1,0 +1,67 @@
+body{
+    background-color: #a7dbe3;
+    color: #2f4c5c;
+    font-size: 21px;
+}
+
+
+h1 { 
+    color: blue;
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    margin: 0;
+    line-height: 1.4;
+    margin-bottom: 15px;
+
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.box1 {
+    background: pink;
+}
+
+.box2 {
+    background: red;
+
+}
+
+.box3 {
+    background: firebrick;
+
+}
+
+.box4 {
+    background: orange;
+}
+
+.box5 {
+    background: yellow;
+    clear: both;
+}
+
+.box6 {
+    background: yellowgreen;
+}
+
+.box7 {
+    background: lightgreen;
+}
+
+.box8 {
+    background: green;
+}
+
+.box9 {
+    background: blue;
+}
