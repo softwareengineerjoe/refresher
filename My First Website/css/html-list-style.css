@@ -1,0 +1,50 @@
+    body{
+        background-color: #a7dbe3;
+        color: #2f4c5c;
+        font-size: 21px;
+        text-align: center;
+    }
+    
+
+    h1 { 
+        color: blue;
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    p {
+        color: #555;
+    }
+
+    ol {
+        list-style-type: upper-alpha;
+    }
+
+    ul { 
+        list-style-type: circle;
+        /* list-style-image: url(../img/elephant.jpg) */
+        background: pink;
+        padding: 50px;
+        list-style-position: inside;
+
+    }
+
+    ul li {
+        background: red;
+        margin-bottom: 5px;
+    }
+
+    ol {
+        background: lightblue;
+        padding: 50px;
+        list-style-position: inside;
+    }
+
+    ol li {
+        background: blue;
+        margin-bottom: 10px;
+        color: white;
+    }
